@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1286245657 source:e:\users\bobby\documents\hamming converter\main.cpp
+	<iostream>
+	<iomanip.h>
+	<sstream>
+	<string>
+	<vector>
+	<math.h>
+
